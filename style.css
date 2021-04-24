@@ -12,7 +12,7 @@ body, html {
     font-family: 'Montserrat', sans-serif;
 }
 .logo {
-    position: fixed;
+    position: relative;
     font-family: 'Lobster Two', cursive;
     padding: 1% 5%;
     background-color: #a29bfe;
