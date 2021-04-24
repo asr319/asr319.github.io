@@ -14,3 +14,6 @@ body, html {
 .logo {
     font-family: 'Lobster Two', cursive;
 }
+.header-img {
+    width:100%
+}
