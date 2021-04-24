@@ -19,8 +19,8 @@ body, html {
 }
 .header-img {
     position: relative;
-    left: 50%;
-    right: 50%;
+    left: 10%;
+    right: 10%;
     margin-left: -50vw;
     margin-right: -50vw;
     max-width: 100vw;
