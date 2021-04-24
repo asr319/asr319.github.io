@@ -21,8 +21,8 @@ body, html {
 }
 .full-width {
     position: relative;
-    left: 10%;
-    right: 10%;
+    left: 50%;
+    right: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
     max-width: 100vw;
