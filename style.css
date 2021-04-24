@@ -15,5 +15,5 @@ body, html {
     font-family: 'Lobster Two', cursive;
 }
 .header-img {
-    width:100%
+    min-width:100%
 }
