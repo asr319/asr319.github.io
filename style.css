@@ -18,6 +18,8 @@ body, html {
     background-color: #a29bfe;
     color: #dfe6e9;
     border-radius: 50%;
+    width: 350px;
+    height: 350px;
 }
 .full-width {
     position: relative;
