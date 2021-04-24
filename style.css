@@ -21,7 +21,6 @@ body, html {
     height: 350px;
 }
 .full {
-    position: static;
     left: 50%;
     right: 50%;
     margin-left: -50vw;
