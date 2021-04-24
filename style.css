@@ -21,6 +21,8 @@ body, html {
     height: 350px;
 }
 .full {
+    position: relative;
+    display: block;
     left: 50%;
     right: 50%;
     margin-left: -50vw;
