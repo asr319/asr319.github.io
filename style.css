@@ -41,5 +41,5 @@ body, html {
 }
 nav {
     display: flex;
-    
+    flex-direction: row-reverse;
 }
