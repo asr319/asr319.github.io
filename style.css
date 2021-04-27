@@ -11,3 +11,7 @@ body, html {
     color: #2d3436;
     font-family: 'Montserrat', sans-serif;
 }
+.box {
+    padding: 10%;
+    background-color: #a29bfe;
+}
