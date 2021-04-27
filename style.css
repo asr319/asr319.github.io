@@ -11,6 +11,9 @@ body, html {
     color: #2d3436;
     font-family: 'Montserrat', sans-serif;
 }
+.logo-text {
+    
+}
 .logo {
     position: relative;
     transform: translate(50%,50%);
